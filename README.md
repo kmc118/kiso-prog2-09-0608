@@ -72,7 +72,7 @@ git push origin main
 以下の4か所を必ず確認すること：
 
 ```
-base repository: yamashu00/kiso-prog2-09-0608   ← 先生のリポジトリ
+base repository: yamashu00/kiso-prog2-09-0608   ← やましゅうのリポジトリ
 base:            main                            ← main ブランチ
 head repository: 自分のユーザー名/kiso-prog2-09-0608  ← 自分のリポジトリ
 compare:         main                            ← main ブランチ
